@@ -1,0 +1,11 @@
+Angelos Perivolaropoulos:
+  name        : "Angelos Perivolaropoulos"
+  bio         : "An enthusiastic Platform Engineer specializing in cloud-native technologies."
+  avatar      : "/assets/images/profile.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aperivol@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "www.linkedin.com/in/angelos-perivolaropoulos"
