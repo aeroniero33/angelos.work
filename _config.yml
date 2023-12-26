@@ -1,4 +1,4 @@
-title: angelos.work
+title: angelos
 email: aperivol@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio page
@@ -9,6 +9,21 @@ logo: '/assets/images/favicon.png'
 # github_username:  jekyll
 
 include: ["_pages"]
+
+collections:
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # tutorial
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Build settings
 markdown: kramdown
