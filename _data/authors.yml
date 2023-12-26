@@ -3,9 +3,12 @@ Angelos Perivolaropoulos:
   bio         : "An enthusiastic Platform Engineer specializing in cloud-native technologies."
   avatar      : "/assets/images/profile.jpeg"
   links:
+    - label: "London, UK"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: ""
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:aperivol@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
-      url: "www.linkedin.com/in/angelos-perivolaropoulos"
+      url: "http://www.linkedin.com/in/angelos-perivolaropoulos"

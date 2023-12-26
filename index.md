@@ -5,11 +5,11 @@ author_profile: true
 
 # Welcome to My Website
 
-Hello! I'm Angelos Perivolaropoulos, and this is my personal website. Here, you'll find my blog posts, projects, and more about my professional and personal interests.
+Welcome to my website! Here you can find more information about me along with several projects that I have worked on. Check out the rest of the pages for more information.
 
 ## About Me
 
-[Briefly introduce yourself. Mention your professional background, interests, or any other information you'd like to share.]
+An enthusiastic and dedicated Platform Engineer specializing in cloud-native technologies and Kubernetes, committed to innovating and optimizing cloud infrastructures."
 
 ## Featured Posts
 
@@ -33,10 +33,6 @@ Here are some of my featured blog posts:
 </ul>
 
 [This section automatically lists your latest blog posts.]
-
-## Contact
-
-Feel free to [contact me](contact-page-link) for collaborations, questions, or just to say hi!
 
 ---
 
